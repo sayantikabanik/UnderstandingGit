@@ -20,3 +20,17 @@
 ### Note
 - We won't we using notebooks for this session
 - Please install any editor of choice 
+
+### Starter command list
+     
+```shellscript
+git clone
+git add
+git commit 
+git status
+git log
+git pull
+git branch
+git checkout
+git push
+```
