@@ -1,6 +1,6 @@
 # Understanding Git better, no pressure :)
 
-- My sandbox repo for teaching Git 
+> My sandbox repo for teaching Git 
 
 ### Agenda
 - Understanding comfort levels 
